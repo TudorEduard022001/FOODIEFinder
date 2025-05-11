@@ -1,0 +1,7 @@
+{
+  "name": "FOODIEFinder",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
